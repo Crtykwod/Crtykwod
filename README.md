@@ -1,5 +1,5 @@
-Estou começando agora com programação
-foco em front-end
+Estou começando agora com programação <br>
+foco em front-end <br>
 mas pode ter certeza que vou escalar essa montanha!!
 ✨
 
