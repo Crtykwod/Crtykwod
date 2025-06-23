@@ -13,12 +13,12 @@
 <p align="left">I'm Carlos Samuel from Brazil.<br><br>- 🔭 I'm searching for a job as Frontend Developer<br>- 📚 I'm currently learning Svelte (JS Framework)<br>- ⚡ In my free time I love to skateboard 🛹🤘</p>
 
 ###
-
+<!--
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
-
+-->
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
