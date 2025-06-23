@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Carlos Samuel from Brazil.<br><br>- 🔭 I'm searching for a job as Frontend Developer<br>- 📚 I'm currently learning Svelte (JS Framework)<br>- ⚡ In my free time I skateboard 🛹🤘</p>
+<p align="left">I'm Carlos Samuel from Brazil.<br><br>- 🔭 I'm searching for a job as Frontend Developer<br>- 📚 I'm currently learning Svelte (JS Framework)<br>- ⚡ In my free time I love to skateboard 🛹🤘</p>
 
 ###
 
